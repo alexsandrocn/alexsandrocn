@@ -20,3 +20,5 @@ Meu nome é Alexsandro de Carvalho Nepunuceno e estou aberto a novas oportunidad
 *NOTE: Top languages does not indicate my skill level or something  like that, it's a github metric of which languages i have the most code  on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
 
 ![Alexsandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexsandrocn&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexsandrocn&theme=dark))](https://github.com/anuraghazra/github-readme-stats)
+
