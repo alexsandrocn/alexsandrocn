@@ -15,4 +15,4 @@ Meu nome é Alexsandro de Carvalho Nepunuceno e estou aberto a novas oportunidad
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/alexsandro_cn)  [![Twitter Badge](https://img.shields.io/badge/-@alexmathe-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/alexmathe)  
 
-[![Alexsandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexsandrocn)](https://github.com/alexsandrocn/github-readme-stats)
+![Alexsandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexsandrocn&show_icons=true&theme=dark)
