@@ -3,7 +3,7 @@
 
 Meu nome é Alexsandro de Carvalho Nepunuceno e estou aberto a novas oportunidades:
 
-- 🌱 Atualmente, estou me especializando em DataEngineer,Python and Machine Learning.
+- 🌱 Atualmente, me especializando em Tecnologia e Sistemas de Informação pela UFABC.
 - 👯 Estou procurando colaborar no Github. 
 - 📫 Como me encontrar:
 
